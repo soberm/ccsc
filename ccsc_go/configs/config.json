@@ -1,0 +1,17 @@
+{
+  "clientContractAddress": "",
+  "ethereumHost": "",
+  "privateKey": "",
+  "callDurationMeasurementsFile": "./data/callDuration.csv",
+  "costsMeasurementsFile": "./data/costs.csv",
+  "callerConfig": {
+    "sourceHost": "",
+    "targetHost": "",
+    "privateKey": "",
+    "proxyContractAddress": "",
+    "serverContractAddress": "",
+    "srcRelayContractAddress": "",
+    "targetRelayContractAddress": "",
+    "callerMeasurementFile": "./data/caller_measurement.csv"
+  }
+}
