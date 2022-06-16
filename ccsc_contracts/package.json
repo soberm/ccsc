@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/soberm/ccsc.git"
+    "url": ""
   },
-  "author": "Michael Sober <m.sober@dsg.tuwien.ac.at>",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.2",
